@@ -134,6 +134,7 @@ while not Game.quit_game:
 
     if Game.restart_game:
         model = Model()
+        Game = game.Game()
         Game.game_begin()
 
 close()
