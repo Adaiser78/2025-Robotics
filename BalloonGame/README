@@ -1,0 +1,3 @@
+# Computer Vision Game involving a projecter displaying moving balloons, the player's objective is to hit as many in the provided timeframe. 
+# The detection of hits was NOT performed by using image analysis techniques, but rather a machine learning model built using google teachable. 
+# Similar Project: https://youtu.be/i_UiTIr4jTk?si=UyNwg9vUT-kQZQuD
